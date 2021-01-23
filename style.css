@@ -39,11 +39,8 @@ header {
 
 
 .nav__links li a {
-  transition: all 0.3s ease 0s;
-}
-
-.nav__links li a:hover {
-  color: #0088A9
+  font-size: 30px;
+  font-weight: bold;
 }
 
 button {
